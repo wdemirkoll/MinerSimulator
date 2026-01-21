@@ -2,7 +2,7 @@
 
 Short Description 💬
 -----------------
-Console-based mining simulation game — a simple, menu-driven mining simulator implemented in C++. The player digs mines, sells resources, upgrades their pickaxe, eats to restore hunger, rests to regain energy, and manages basic survival stats. The project demonstrates fundamental C++ concepts such as variables, functions, loops, and user input handling.
+Console-based mining simulation game — a simple, menu-driven mining simulator implemented in C++. The player digs mines, sells resources, upgrades their pickaxe, eats to restore hunger, rests to regain energy, and manages basic survival stats. The project demonstrates fundamental C++ concepts such as variables, functions and user input handling.
 
 Announcement 📢
 ------------

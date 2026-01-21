@@ -66,7 +66,7 @@ Choose: 6
 ### Notes and limitations ⚠️
 - All player data is stored only in memory; progress is lost when the program exits.  
 - Input validation is minimal; invalid or unexpected input may cause incorrect behavior.  
-- Game balance values (prices, energy loss, hunger loss) are hardcoded and intended for demo/learning purposes.  
+- Game balance values (prices, energy loss, hunger loss) are hardcoded and intended for learning purposes.  
 - There is no save/load system, no difficulty scaling, and no advanced gameplay mechanics.  
 
 ### Author 👤

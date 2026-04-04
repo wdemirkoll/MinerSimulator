@@ -4,8 +4,8 @@
 Equipment::Equipment() {
     processedMine_ = 0;
 
-    diggingMultiplier_ = 1.0f;
-    moneyMultiplier_ = 1.0f;
+    diggingMultiplier_ = 4.0f;
+    moneyMultiplier_ = 3.0f;
 }
 
 // Processed mine spending method

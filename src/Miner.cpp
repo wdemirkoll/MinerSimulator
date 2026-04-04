@@ -3,7 +3,7 @@
 
 Miner::Miner() {
     // Constructor (initial values ​​of units)
-        money_ = 0.0f;
+        money_ = 100.0f;
 
         health_ = 100;
         energy_ = 100;

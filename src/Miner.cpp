@@ -3,7 +3,7 @@
 
 Miner::Miner() {
     // Constructor (initial values ​​of units)
-        money_ = 0;
+        money_ = 0.0f;
 
         health_ = 100;
         energy_ = 100;
@@ -33,7 +33,7 @@ int Miner::getThirst() const { return thirst_; }
 // add value-amount methods
 // ========================
 void Miner::addMoney(int amount) {
-    if (money_ >= 0 && amount > 0) { money_ += amount; }
+    if (money_ >= 0.0f && amount > 0.0) { money_ += amount; }
 }
 
 void Miner::addHealth(int value) {
@@ -58,7 +58,7 @@ void Miner::addThirst(int value) {
 // ===========================
 void Miner::removeMoney(int amount) {
     if (money_ >= amount) { money_ -= amount; }
-    if (money_ < 0) { money_ = 0; }
+    if (money_ < 0.0f) { money_ = 0.0f; }
 }
 
 void Miner::removeHealth(int value) {

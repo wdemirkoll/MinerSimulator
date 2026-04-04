@@ -6,7 +6,7 @@
 class Miner {
 private:
     // Player's values
-    int money_;
+    float money_;
 
     int health_;
     int energy_;

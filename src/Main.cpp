@@ -122,7 +122,7 @@ int main() {
                  // Shop options
                  switch (choose) {
                      case 1:
-                         if (miner.getMoney() >= 1) {
+                         if (miner.getMoney() >= 1 && miner.getThirst() <= 100) {
                              miner.spendMoney(1);
                              miner.addThirst(5);
 
@@ -135,7 +135,7 @@ int main() {
                            break;
 
                      case 2:
-                         if (miner.getMoney() >= 2) {
+                         if (miner.getMoney() >= 2 && miner.getThirst() <= 100 && miner.getEnergy() <= 100) {
                              miner.spendMoney(2);
                              miner.addThirst(5);
                              miner.addEnergy(2);
@@ -149,7 +149,7 @@ int main() {
                           break;
 
                      case 3:
-                         if (miner.getMoney() >= 10) {
+                         if (miner.getMoney() >= 10 && miner.getEnergy() <= 100 && miner.getThirst() <= 100) {
                              miner.spendMoney(10);
                              miner.addEnergy(25);
                              miner.addThirst(5);
@@ -163,7 +163,7 @@ int main() {
                           break;
 
                      case 4:
-                         if (miner.getMoney() >= 30) {
+                         if (miner.getMoney() >= 30 && miner.getEnergy() <= 100 && miner.getThirst() <= 100) {
                              miner.spendMoney(30);
                              miner.addEnergy(50);
                              miner.addThirst(50);
@@ -177,7 +177,7 @@ int main() {
                           break;
 
                      case 5:
-                         if (miner.getMoney() >= 2) {
+                         if (miner.getMoney() >= 2 && miner.getHunger() <= 100) {
                              miner.spendMoney(2);
                              miner.addHunger(5);
 
@@ -190,7 +190,7 @@ int main() {
                           break;
 
                      case 6:
-                         if (miner.getMoney() >= 10) {
+                         if (miner.getMoney() >= 10 && miner.getHunger() <= 100 && miner.getEnergy() <= 100) {
                              miner.spendMoney(10);
                              miner.addHunger(25);
                              miner.addEnergy(2);
@@ -204,7 +204,7 @@ int main() {
                          break;
 
                      case 7:
-                         if (miner.getMoney() >= 25) {
+                         if (miner.getMoney() >= 25 && miner.getHunger() <= 100 && miner.getEnergy() <= 100) {
                              miner.spendMoney(25);
                              miner.addHunger(60);
                              miner.addEnergy(15);
@@ -218,7 +218,7 @@ int main() {
                          break;
 
                      case 8:
-                         if (miner.getMoney() >= 60) {
+                         if (miner.getMoney() >= 60 && miner.getHunger() <= 100 && miner.getEnergy() <= 100 && miner.getThirst() <= 100) {
                              miner.spendMoney(60);
                              miner.addHunger(100);
                              miner.addEnergy(50);

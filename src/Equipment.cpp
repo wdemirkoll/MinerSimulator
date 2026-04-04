@@ -4,7 +4,7 @@
 Equipment::Equipment() {
     processedMine_ = 0;
 
-    diggingMultiplier_ = 4.0f;
+    diggingMultiplier_ = 7.0f;
     moneyMultiplier_ = 3.0f;
 }
 

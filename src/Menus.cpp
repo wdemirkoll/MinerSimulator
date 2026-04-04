@@ -38,7 +38,7 @@ void showMainMenu() {
     // Print the main menu options
     std::cout << "---------------------------------------------\n";
     std::cout << "1) Mine Ore\n";
-    std::cout << "2) Sell Ore\n";
+    std::cout << "2) Sell Processed Ore\n";
     std::cout << "3) Upgrade Digging Multiplier\n";
     std::cout << "4) Upgrade Money Multiplier\n"; 
     std::cout << "5) Go to Shop\n";

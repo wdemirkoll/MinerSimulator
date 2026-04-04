@@ -43,6 +43,6 @@ void showMainMenu() {
     std::cout << "4) Upgrade Money Multiplier\n"; 
     std::cout << "5) Go to Shop\n";
     std::cout << "6) Visit Doctor\n";
-    std::cout << "7) Exit Game\n";
+    std::cout << "0) Exit Game\n";
     std::cout << "---------------------------------------------\n";
 }

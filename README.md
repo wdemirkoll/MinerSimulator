@@ -8,6 +8,12 @@ The project was developed in accordance with Object-Oriented Programming (OOP) p
 
 ---
 
+## Prewiev
+
+<img width="531" height="593" alt="Ekran Alıntıdsı" src="https://github.com/user-attachments/assets/53ed35ec-737b-4b7f-97ea-07cbb3ef8808" />
+
+---
+
 ## Requirements
 
 - **C++ Standard:** C++17 or higher  

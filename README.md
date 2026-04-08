@@ -119,14 +119,13 @@ which cmake      # (Linux/macOS) or where cmake (Windows)
 ## **Author**
 
 **Abdüsselam Demirkol**  
+### 🗓 Created: April 2026
 
 ### GitHub: wdemirkoll
 ### Instagram: https://www.instagram.com/w.demirkoll/
 ### Email: wdemirkoll.dev@gmail.com
 
 ---
-
- 🗓 Created: April 2026
 
  ## I seem to like OOP :) practice practice
  ## If you like my project, I deserve a star :)

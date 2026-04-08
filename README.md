@@ -120,9 +120,9 @@ which cmake      # (Linux/macOS) or where cmake (Windows)
 
 **Abdüsselam Demirkol**  
 
-GitHub: wdemirkoll
-Instagram: https://www.instagram.com/w.demirkoll/
-Gmail: wdemirkoll.dev@gmail.com
+ GitHub: wdemirkoll
+ Instagram: https://www.instagram.com/w.demirkoll/
+ Gmail: wdemirkoll.dev@gmail.com
 
  🗓 Created: April 2026
 

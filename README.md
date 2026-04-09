@@ -122,8 +122,8 @@ which cmake      # (Linux/macOS) or where cmake (Windows)
 ### 🗓 Created: April 2026
 
 #### GitHub: wdemirkoll
-#### Instagram: https://www.instagram.com/w.demirkoll/
-#### Email: wdemirkoll.dev@gmail.com
+##### Instagram: https://www.instagram.com/w.demirkoll/
+##### Email: wdemirkoll.dev@gmail.com
 
 ---
 

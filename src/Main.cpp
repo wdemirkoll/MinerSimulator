@@ -2,11 +2,13 @@
 #include "Equipment.h"
 #include "Menus.h"
 #include "Miner.h"
+#include "Rank.h"
 #include <iostream>
 
 int main() {
     Miner miner;
     Equipment equipment;
+    Rank rank;
     
     // For menu
     int choose;

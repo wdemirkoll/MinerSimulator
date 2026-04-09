@@ -1,15 +1,20 @@
 #include "Menus.h"
 #include "Miner.h"
+#include "Rank.h"
 #include "Equipment.h"
 #include <iostream>
 
-void showStats(const Miner& miner, const Equipment& equipment) {
+void showStats(const Miner& miner, const Equipment& equipment, const Rank rank) {
     // Print the statistics menu
     std::cout << "---------------------------------------------\n";
     std::cout << "Money: " << miner.getMoney() << "$\n";
     std::cout << "Processed Mine: " << equipment.getProcessedMine() << "\n";
     std::cout << "Money Multiplier: " << equipment.getMoneyMultiplier() << "x\n";
     std::cout << "Digging Multiplier: " << equipment.getDiggingMultiplier() << "x\n";
+    std::cout << "---------------------------------------------\n";
+    std::cout << "Rank: " << rank.getRank() << "\n"; 
+    std::cout << "Level: " << rank.getLevel() << "\n";
+    std::cout << "XP: " << rank.getXP() << "\n";
     std::cout << "---------------------------------------------\n";
     std::cout << "Health: %" << miner.getHealth() << "\n";
     std::cout << "Energy: %" << miner.getEnergy() << "\n";

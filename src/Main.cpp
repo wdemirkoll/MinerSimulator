@@ -21,7 +21,7 @@ int main() {
         clearConsole();
         
         // Display player stats and main menu
-        showStats(miner, equipment);
+        showStats(miner, equipment, rank);
         showMainMenu();
         
         // Get a choice
@@ -44,6 +44,8 @@ int main() {
                      miner.removeEnergy(5);
                      miner.removeHunger(5);
                      miner.removeThirst(5); 
+
+                     rank.addXP(50);
                      
                      // Processed mine = amount mined * digging multiplier
                      float totalMined = 1 * equipment.getDiggingMultiplier();

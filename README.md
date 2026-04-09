@@ -1,10 +1,12 @@
 # Miner Simulator
 
-A miner simulation designed as a simple console application that offers menu-based interaction. In this simulation, the player controls a miner who digs in a mine; the extracted resources are converted into processed metal form and sold to generate income.
+A miner simulation designed as a simple console application offering menu-based interaction. In this simulation, the player controls a miner digging in a mine; the extracted resources are transformed into processed metal and sold to generate income.
 
-The income obtained is used to maintain the character’s health and to manage basic needs such as hunger, thirst, and energy. Additionally, the player can visit a doctor to restore the character’s health in exchange for a certain cost.
+The income earned is used to maintain the character's health and meet basic needs such as hunger, thirst, and energy. The player can also visit a doctor to improve the character's health for a fee.
 
-The project was developed in accordance with Object-Oriented Programming (OOP) principles and was prepared for practice purposes.
+The player gains XP each time they mine, leveling up. They advance one rank every 3 levels. There are 25 ranks available in the game.
+
+The project was developed and prepared for application purposes in accordance with Object-Oriented Programming (OOP) principles.
 
 ---
 
@@ -122,8 +124,8 @@ which cmake      # (Linux/macOS) or where cmake (Windows)
 ### 🗓 Created: April 2026
 
 #### GitHub: wdemirkoll
-#### Instagram: https://www.instagram.com/w.demirkoll/
-#### Email: wdemirkoll.dev@gmail.com
+##### Instagram: https://www.instagram.com/w.demirkoll/
+##### Email: wdemirkoll.dev@gmail.com
 
 ---
 

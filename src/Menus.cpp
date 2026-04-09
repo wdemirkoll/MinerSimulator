@@ -4,7 +4,7 @@
 #include "Equipment.h"
 #include <iostream>
 
-void showStats(const Miner& miner, const Equipment& equipment, const Rank rank) {
+void showStats(const Miner& miner, const Equipment& equipment, const Rank& rank) {
     // Print the statistics menu
     std::cout << "---------------------------------------------\n";
     std::cout << "Money: " << miner.getMoney() << "$\n";

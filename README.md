@@ -12,7 +12,7 @@ The project was developed and prepared for application purposes in accordance wi
 
 ## Prewiev
 
-<img width="531" height="593" alt="Ekran Alıntıdsı" src="https://github.com/user-attachments/assets/53ed35ec-737b-4b7f-97ea-07cbb3ef8808" />
+<img width="439" height="663" alt="ssssssssssss" src="https://github.com/user-attachments/assets/18deefcb-94dd-4bb8-9907-34de68836b4d" />
 
 ---
 

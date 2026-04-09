@@ -12,6 +12,7 @@ add_executable(main
     src/Equipment.cpp
     src/Menus.cpp
     src/Miner.cpp
+    src/Rank.cpp
 )
 
 # Specify the include directories for the target

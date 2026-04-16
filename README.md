@@ -10,6 +10,11 @@ The project was developed and prepared for application purposes in accordance wi
 
 ---
 
+# Disclaimer ❗❗❗
+This project has been developed for learning and practice purposes only. It is not intended for use in a production (live) environment. Some features may be intentionally incomplete, and certain functionalities may not be fully developed or finalized. In addition, security measures are not fully implemented or thoroughly tested, which may result in potential vulnerabilities or unexpected behavior. Therefore, it is strongly advised not to use this project directly in real-world or critical systems, as it may not meet the required standards for reliability, stability, or security.
+
+---
+
 ## Prewiev
 
 <img width="439" height="663" alt="ssssssssssss" src="https://github.com/user-attachments/assets/18deefcb-94dd-4bb8-9907-34de68836b4d" />
